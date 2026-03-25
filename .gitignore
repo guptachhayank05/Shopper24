@@ -1,0 +1,12 @@
+# IntelliJ
+.idea/
+
+# Java compiled files
+*.class
+
+# Build folders
+target/
+out/
+
+# सुरक्षा (important)
+application.properties
